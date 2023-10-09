@@ -1,0 +1,15 @@
+{
+    "name": "MEB - Açı Ortay Bulalım",
+    "short_name": "MEB - Açı Ortay Bulalım",
+    "start_url": "index.html",
+    "display": "fullscreen",
+    "background_color": "#0A2D55",
+    "theme_color": "#000",
+    "description": "Açı Ortay Bulalım",
+    "icons": [{
+      "src": "TemplateData/icons/unity-logo-dark.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }]
+  }
